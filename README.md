@@ -1,0 +1,1 @@
+Example usage on linux : python3 task5.py --videopath="video.mp4" --numthreads=2 --name="yolo_predicted"
